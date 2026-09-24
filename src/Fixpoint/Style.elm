@@ -29,7 +29,7 @@ string is byte-identical to the equivalent CSS file (including its comments).
 css : String
 css =
     String.join "\n"
-        [ "/* blog.css — the blog-design fork of the fixpoint-linux design system.",
+        [ "/* blog.css — the design system for blog.jaye.ch.",
             " *",
             " * A light \"paper\" theme for long-form reading: same class names and",
             " * Fixpoint.* modules as upstream (a drop-in fork), inverted to a warm",
